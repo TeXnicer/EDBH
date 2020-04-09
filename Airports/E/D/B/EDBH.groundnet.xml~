@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- D-EKSW April 5th, 2020 using Openstreetmap and survey -->
+<groundnet>
+    <parkingList>
+      <Parking index="0" type="gate" name="Gas Station" lat="N54 20.1642" lon="E12 42.9666" heading="360.0000" />
+      <Parking index="1" type="gate" name="East" lat="N54 20.167" lon="E12 42.8742" heading="270.0000" />
+      <Parking index="2" type="gate" name="West" lat="N54 20.167" lon="E12 42.89" heading="270.0000" />
+    </parkingList>
+</groundnet>

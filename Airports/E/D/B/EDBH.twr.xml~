@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!-- D-EKSW; April 5th 2020; taken from openstreetmap.org; survey at location -->
+<PropertyList>
+  <tower>
+    <twr>
+      <lon>12.71572</lon>
+      <lat>54.33606</lat>
+      <elev-m>10.0</elev-m>
+    </twr>
+  </tower>
+</PropertyList>
