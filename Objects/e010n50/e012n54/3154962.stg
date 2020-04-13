@@ -1,7 +1,18 @@
 # e010n50/e012n54/3154962.stg
 # Longitude Latitude Altitude Heading 
-# 
+# Taxi Signs
 OBJECT_SIGN {@R1}{^l}09-27{^r}{@@}{@Y1}WELCOME 12.714 54.33725447 2.8635 0.0 0.0 -0.0
 OBJECT_SIGN {@Y1}A{^ru} 12.71335353 54.33798329 2.1298 270.0 0.0 -0.0
 OBJECT_SIGN {@Y1}{^lu}A 12.71528338 54.33796515 2.8201 90.0 0.0 -0.0
+
+# AV gas station
+# REPORT TO SCENERYDATABASE
+OBJECT_STATIC ../../../static/001-avgas/ilssta1.ac 12.71678301 54.33629204 4.7718 270.6 0.0 -0.0
+OBJECT_STATIC ../../../static/001-avgas/lfga-refuel.xml 12.71675655 54.33636106 4.8347 90.8 0.0 -0.0
+
+#Big Hangar TEMP!
+OBJECT_STATIC ../../../static/002-hangar/big-hangar.ac 12.71434408 54.33605502 4.1156 268.9 0.0 -0.0
+
+# Tower TEMP!
+OBJECT_STATIC ../../../static/003-tower/tourV8.ac 12.71547874 54.33615647 4.4848 0.0 0.0 -0.0
 
