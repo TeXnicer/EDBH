@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <Airport ICAOcode="EDBH">
+    <Sid Name="Left Circuit" Runways="27">
+      <Sid_Waypoint ID="1">
+	<Name>Crosswind</Name>
+	<Type>Normal</Type>
+	<Latitude>54.3386463534452</Latitude>
+	<Longitude>12.67281523704529</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+	<Name>Downwind</Name>
+	<Type>Normal</Type>
+	<Latitude>54.31793146349218</Latitude>
+	<Longitude>12.672184277847359</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+	<Name>Base</Name>
+	<Type>Normal</Type>
+	<Latitude>54.31715789528574</Latitude>
+	<Longitude>12.746849885555665</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+	<Name>Short Final</Name>
+	<Type>Normal</Type>
+	<Latitude>54.33787317475795</Latitude>
+	<Longitude>12.747480844753596</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+	<Name>Touchdown</Name>
+	<Type>Normal</Type>
+	<Latitude>54.338161</Latitude>
+	<Longitude>12.7230</Longitude>
+      </Sid_Waypoint>
+  </Sid>
+</Airport>
