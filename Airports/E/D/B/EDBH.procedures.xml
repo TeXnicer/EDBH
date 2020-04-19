@@ -2,34 +2,66 @@
   <Airport ICAOcode="EDBH">
     <Sid Name="Left Circuit" Runways="27">
       <Sid_Waypoint ID="1">
-	<Name>Crosswind</Name>
+	<Name>Crosswind RWY 27</Name>
 	<Type>Normal</Type>
 	<Latitude>54.3386463534452</Latitude>
 	<Longitude>12.67281523704529</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-	<Name>Downwind</Name>
+	<Name>Downwind RWY 27</Name>
 	<Type>Normal</Type>
 	<Latitude>54.31793146349218</Latitude>
 	<Longitude>12.672184277847359</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
-	<Name>Base</Name>
+	<Name>Base RWY 27</Name>
 	<Type>Normal</Type>
 	<Latitude>54.31715789528574</Latitude>
 	<Longitude>12.746849885555665</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-	<Name>Short Final</Name>
+	<Name>Short Final RWY 27</Name>
 	<Type>Normal</Type>
 	<Latitude>54.33787317475795</Latitude>
 	<Longitude>12.747480844753596</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
-	<Name>Touchdown</Name>
+	<Name>Touchdown RWY 27</Name>
 	<Type>Normal</Type>
-	<Latitude>54.338161</Latitude>
-	<Longitude>12.7230</Longitude>
+	<Latitude>54.3380967</Latitude>
+	<Longitude>12.7182303</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="Right Circuit" Runways="09">
+      <Sid_Waypoint ID="1">	   
+	<Name>Right Crosswind RWY 09</Name>
+	<Type>Normal</Type>
+	<Latitude>54.33787317475795</Latitude>
+	<Longitude>12.747480844753596</Longitude>
+      </Sid_Waypoint>
+       <Sid_Waypoint ID="2">
+	<Name>Right Downwind RWY 09</Name>
+	<Type>Normal</Type>
+	<Latitude>54.31715789528574</Latitude>
+	<Longitude>12.746849885555665</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+	<Name>Right Base RWY 09</Name>
+	<Type>Normal</Type>
+	<Latitude>54.31793146349218</Latitude>
+	<Longitude>12.672184277847359</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+	<Name>Short Final RWY 09</Name>
+	<Type>Normal</Type>
+	<Latitude>54.3386463534452</Latitude>
+	<Longitude>12.67281523704529</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+	<Name>Touchdown RWY 09</Name>
+	<Type>Normal</Type>
+	<Latitude>54.3381814</Latitude>
+	<Longitude>12.7011395</Longitude>
       </Sid_Waypoint>
   </Sid>
 </Airport>
