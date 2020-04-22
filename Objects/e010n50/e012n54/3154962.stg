@@ -17,4 +17,9 @@ OBJECT_STATIC ../../static/002-hangar/EDBH-hangar.ac 12.71412 54.33581 4.1 0.0 0
 # Tower TEMP!
 OBJECT_STATIC ../../static/003-tower/tourV8.ac 12.71547874 54.33615647 4.4848 0.0 0.0 -0.0
 
+#Lights 4.9728
+OBJECT_STATIC ../../static/Apronlamp16m180deg.xml 12.71676 54.33609 4.9 56.0 0.0 -0.0
+OBJECT_STATIC ../../static/Apronlamp16m180deg.xml 12.71612 54.33609 4.9728 56.0 0.0 -0.0
+OBJECT_STATIC ../../static/Apronlamp16m180deg.xml 12.71475 54.33605 4.9728 56.0 0.0 -0.0
 
+OBJECT_STATIC ../../static/EDBH-apron-part3.ac 12.7149771 54.3359311 4.5 0.0 0.0 -0.0 
